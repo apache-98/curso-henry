@@ -1,2 +1,2 @@
 # curso-henry
-este es un repositorio del modulo 2 de henry
+este es un repositorio es una prueba de como clonar desde mi github
